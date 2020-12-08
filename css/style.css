@@ -9,6 +9,9 @@ body {
     padding: 10px 20px;
     margin: 0 auto;
 }
+p{
+    line-height: 25px;
+}
 .screenshot {
     width: 800px;
     height: 300px;
